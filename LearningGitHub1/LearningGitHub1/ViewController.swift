@@ -8,6 +8,10 @@
 
 import UIKit
 
+struct Student {
+    var name = "Khanh"
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
